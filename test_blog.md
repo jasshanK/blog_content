@@ -3,3 +3,5 @@ CONTENT CONTENT CONTENT
 
 ## SECONDARY HEADING 
 CONTENT CONTENT CONTENT
+
+![apple](./resources/apple.png)
