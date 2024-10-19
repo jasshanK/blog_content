@@ -5,3 +5,12 @@ CONTENT CONTENT CONTENT
 CONTENT CONTENT CONTENT
 
 ![apple](./resources/apple.png)
+
+### TERTIARY HEADING
+```c
+#include <stdio.h>
+
+```
+
+# PRIMARY HEADING
+`sed` **bold** *italic*
