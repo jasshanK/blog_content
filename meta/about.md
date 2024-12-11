@@ -1,5 +1,10 @@
-![apple](./resources/apple.png)
+I'm Jasshan and this corner of the internet is my place to dump all the weird and interesting(debatable) things I'm working on. 
 
-this will be the about page 
+I'm an electrical engineer by training and mainly work in the hardware and embedded sphere, with a love for computers and the software that runs on it.  
 
-its just a normal post!
+You can checkout some of my projects over at my [GitHub](https://github.com/jasshanK).
+
+Here is my system configuration for those interested:
+![neofetch](./resources/neofetch_dec_2024.png)
+
+"Dotfiles" can be found [here](https://github.com/jasshanK/core/tree/dual_setup).
