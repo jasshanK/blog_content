@@ -6,6 +6,13 @@ CONTENT CONTENT CONTENT
 
 ![apple](./resources/apple.png)
 
+some $inline$ math
+
+a math block
+$$
+testing
+$$
+
 ### TERTIARY HEADING
 words words
 ```c
