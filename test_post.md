@@ -9,9 +9,7 @@ CONTENT CONTENT CONTENT
 some $inline$ math
 
 a math block
-$$
-testing
-$$
+$$testing$$
 
 ### TERTIARY HEADING
 words words
