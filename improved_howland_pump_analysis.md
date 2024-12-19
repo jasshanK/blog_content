@@ -24,13 +24,13 @@ $$\frac{R_1}{R_1 + R_2}(V_{load} - V_{in}) = \frac{R_3}{R_3 + R_4}(V_{out})$$
 We can simplify this equation by applying the following assumption: 
 $$R_1 = R_3, R_2 = R_4$$
 
-$$(V_{out} - V_{load})(\frac{R_1}{R_1 + R_2}) = -V_{in} ----- (1)$$
+$$(V_{out} - V_{load})(\frac{R_1}{R_1 + R_2}) = -V_{in}  (1)$$
 
 The above equation relates $V_{in}$ with $V_{load}$ and $V_{out}$, with the resistors acting as a scaling factor. 
 
 Let's observe the flow of current at the point $V_{load}$. The current out of the amplifier through $R_S$ will be the same as the current through $R_L$, assuming feedback current through $R_2$ and $R_4$ is negligible. Formulating this as an equation:
 
-$$I_L = \frac{V_{out} - V_{load}}{R_s} ----- (2)$$
+$$I_L = \frac{V_{out} - V_{load}}{R_s}  (2)$$
 
 Substituting equation 1 into equation 2:
 
