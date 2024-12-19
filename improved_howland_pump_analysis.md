@@ -10,4 +10,10 @@ Texas Instruments has a great [application report](https://www.ti.com/lit/an/sno
 As a supplement to their article, we will be deriving the relationship between $I_L$ and $V_{in}$.
 
 # Analysis 
+$$
+V^+ = V^-
 
+V^+ = \frac{R_1}{R_1 + R_2}(V_{load} - V_{in})
+
+V^- = \frac{R_3}{R_3 + R_4}(V_out)
+$$
