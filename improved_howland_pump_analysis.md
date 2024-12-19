@@ -24,6 +24,8 @@ $$\frac{R_1}{R_1 + R_2}(V_{load} - V_{in}) = \frac{R_3}{R_3 + R_4}(V_{out})$$
 We can simplify this equation by applying the following assumption: 
 $$R_1 = R_3, R_2 = R_4$$
 
+$$Equation 1$$
+
 $$(V_{out} - V_{load})(\frac{R_1}{R_1 + R_2}) = -V_{in} <--(1)$$
 
 The above equation relates $V_{in}$ with $V_{load}$ and $V_{out}$, with the resistors acting as a scaling factor. 
