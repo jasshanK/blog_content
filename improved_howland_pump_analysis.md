@@ -36,7 +36,7 @@ Let's observe the flow of current at the point $V_{load}$. The current out of th
 
 $$I_L = \frac{V_{out} - V_{load}}{R_S}$$
 
-Substituting the earlier ${V_{in}$ equation into the above:
+Substituting the earlier $V_{in}$ equation into the above:
 
 $$I_L = \frac{1}{R_S}(-V_{in}\frac{R_1 + R_2}{R_1})$$
 
