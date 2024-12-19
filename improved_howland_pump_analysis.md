@@ -7,13 +7,12 @@ Intuitively, this operational amplifier configuration is trying to move it's out
 
 Texas Instruments has a great [application report](https://www.ti.com/lit/an/snoa474a/snoa474a.pdf?ts=1734576485321&ref_url=https%253A%252F%252Fwww.google.com%252F) covering the dynamics of the system, choice of of passive of components as well as the basic history of the circuit. 
 
-As a supplement to their article, we will be deriving the relationship between $I_L$ and 
+As a supplement to their article, we will be deriving the relationship between $I_L$ and $V_{in}$.
 
 # Analysis 
 ![kicad_circuit](./resources/improved_howland_current_pump.png)
 
 Applying Kirchoff's Voltage Law, we can deduce the values of $V_+$ and $V_-$:
-
 $$V^+ = \frac{R_1}{R_1 + R_2}(V_{load} - V_{in})$$
 
 $$V^- = \frac{R_3}{R_3 + R_4}(V_{out})$$
