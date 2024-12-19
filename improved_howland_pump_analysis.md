@@ -13,7 +13,6 @@ As a supplement to their article, we will be deriving the relationship between $
 ![kicad_circuit](./resources/improved_howland_current_pump.png)
 
 Applying Kirchoff's Voltage Law, we can deduce the values of $V_+$ and $V_-$:
-
 $$V^+ = \frac{R_1}{R_1 + R_2}(V_{load} - V_{in})$$
 
 $$V^- = \frac{R_3}{R_3 + R_4}(V_{out})$$
