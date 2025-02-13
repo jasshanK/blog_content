@@ -7,4 +7,4 @@ You can checkout some of my projects over at my [GitHub](https://github.com/jass
 Here is my system configuration for those interested:
 ![neofetch](./resources/neofetch_dec_2024.png)
 
-"Dotfiles" can be found [here](https://github.com/jasshanK/core/tree/dual_setup).
+"Dotfiles" can be found [here](https://github.com/jasshanK/core).
