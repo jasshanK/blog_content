@@ -1,4 +1,4 @@
-# Write to think
+# Notes?
 Notes, or writing, is a great way to store and share information. We take notes for a variety of reasons: meeting minutes, daily tasks, lectures,  etc. But a common cross roads met by to be note takers is to take notes digitally or physically. As one who has walked down this path, I would like to offer my two cents: do both! You will never know what works for you till you actually put it into practice. 
 
 I did the same; for the entirety of undergraduate I took notes using paper, tablet and keyboard, with a variety of apps and cloud storage solutions (and pens). At the end of the 4 years, I still do both, with each method having its own unique place in my system.
